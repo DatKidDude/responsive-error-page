@@ -36,8 +36,7 @@
 
 ## Overview
 
-https://imgflip.com/gif/71cnpl
-
+<iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/71cnpl"></iframe>
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
